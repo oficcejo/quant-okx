@@ -1,0 +1,15 @@
+# OKX API Configuration
+OKX_API_KEY=###
+OKX_SECRET_KEY=###
+OKX_PASSPHRASE=###
+OKX_API_ENDPOINT=https://www.okx.com
+
+
+
+# AI Configuration (支持 OpenAI 兼容的 API)
+# 服务端配置（用于API路由）
+OPENAI_API_KEY=ak_###
+OPENAI_API_BASE_URL=https://###
+OPENAI_MODEL=LongCat-Flash-Chat
+
+
