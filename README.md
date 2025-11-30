@@ -1,6 +1,10 @@
 # OKX 自动量化交易机器人
 
 基于 Python Flask 开发的 OKX 交易所自动量化交易机器人，采用**前后端分离架构**，提供 Web 界面管理账户、执行策略、AI 策略生成及历史数据回测。
+<img width="1907" height="883" alt="image" src="https://github.com/user-attachments/assets/24ba308f-3bc5-4d41-bc92-9a9ed8453af1" />
+<img width="1867" height="822" alt="image" src="https://github.com/user-attachments/assets/47f4a045-911b-4c73-b774-7478c578633e" />
+<img width="1793" height="881" alt="image" src="https://github.com/user-attachments/assets/1709c090-a39f-4a39-909e-9ca123e3f558" />
+<img width="1781" height="765" alt="image" src="https://github.com/user-attachments/assets/e2260d70-2ebe-48f3-9929-8570b0c6d1bf" />
 
 ## 系统架构
 
